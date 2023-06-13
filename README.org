@@ -1,0 +1,10 @@
+* skeleton-creator
+
+Create projects from a skeleton directory.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/noloop/skeleton-creator.git   |
+| commit  | 8a00fa4  |
+| systems | skeleton-creator |
+|---------+-------------------------------------------|
+
